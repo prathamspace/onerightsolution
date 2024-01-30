@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.onerightsolution_between {
+  justify-content: space-between !important;
+}
+.onerightsolution_logo {
+  height: 50px;
+}
+.onerightsolution_align_middle {
+  align-items: center !important;
+}
